@@ -34,8 +34,8 @@ This Spring Boot application provides a **REST API** for a banking system that a
 Database Configuration (MySQL)
 ===============================
 spring.datasource.url=jdbc:mysql://localhost:3306/banking_db
-spring.datasource.username=root
-spring.datasource.password=2025
+spring.datasource.username=***********
+spring.datasource.password=***********
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 ```
 ```http
