@@ -2,6 +2,7 @@
 
 This Spring Boot application provides a **REST API** for a banking system that allows users to manage their bank accounts. Users can **view balance, deposit money, and withdraw money** while ensuring the balance never goes negative.
 
+ 
 # **Features**
 
 * View account balance
